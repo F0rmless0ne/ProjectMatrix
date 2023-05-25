@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "add": "^2.0.6",
+    "axios": "^1.4.0",
+    "bootstrap": "^5.2.3",
+    "client": "^0.0.1",
+    "firebase": "^9.22.0",
+    "http": "^0.0.1-security",
+    "react-router-dom": "^6.11.2",
+    "to": "^0.2.9"
+  }
+}
